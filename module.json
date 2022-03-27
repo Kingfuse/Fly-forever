@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "<font color='#00FFFF'> fly-forever </font>",
+    "options": {
+        "niceName": "<font color='#00FFFF'> fly-forever </font>",
+        "guiName": "<font color='#00FFFF'> fly-forever </font>"
+    },
+    "author": "<font color='#FDD017'>PsykoDev/KingFuse</font>",
+    "description": "Infinite fly anywhere you want + no fall damage",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "<font color='#FF0000'>GF v115.2</font>"
+}
